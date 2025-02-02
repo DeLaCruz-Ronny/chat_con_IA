@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rmdpd\\OneDrive\\Escritorio\\chat_con_IA\\chat_IA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75C66577-F03C-4210-9363-DD8396836AD0}|chat_IA\\chat_IA.csproj|c:\\users\\rmdpd\\onedrive\\escritorio\\chat_con_ia\\chat_ia\\chat_ia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C66577-F03C-4210-9363-DD8396836AD0}|chat_IA\\chat_IA.csproj|solutionrelative:chat_ia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C66577-F03C-4210-9363-DD8396836AD0}|chat_IA\\chat_IA.csproj|c:\\users\\rmdpd\\onedrive\\escritorio\\chat_con_ia\\chat_ia\\chat_ia\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C66577-F03C-4210-9363-DD8396836AD0}|chat_IA\\chat_IA.csproj|solutionrelative:chat_ia\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constantes.cs",
+              "DocumentMoniker": "C:\\Users\\rmdpd\\OneDrive\\Escritorio\\chat_con_IA\\chat_IA\\chat_IA\\Constantes.cs",
+              "RelativeDocumentMoniker": "chat_IA\\Constantes.cs",
+              "ToolTip": "C:\\Users\\rmdpd\\OneDrive\\Escritorio\\chat_con_IA\\chat_IA\\chat_IA\\Constantes.cs",
+              "RelativeToolTip": "chat_IA\\Constantes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T23:41:36.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rmdpd\\OneDrive\\Escritorio\\chat_con_IA\\chat_IA\\chat_IA\\Program.cs",
+              "RelativeDocumentMoniker": "chat_IA\\Program.cs",
+              "ToolTip": "C:\\Users\\rmdpd\\OneDrive\\Escritorio\\chat_con_IA\\chat_IA\\chat_IA\\Program.cs",
+              "RelativeToolTip": "chat_IA\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T23:33:35.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
